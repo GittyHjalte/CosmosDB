@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R4u7/wUi2X4=",
+  "success": true,
+  "projectFilePath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zida1\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\zida1\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

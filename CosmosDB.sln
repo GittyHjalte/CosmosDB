@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDB", "CosmosDB\CosmosDB.csproj", "{A561AD27-B6C8-406F-B2E4-F1E416632B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{B661409C-4AAA-48DA-A594-6762DDF09C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{14CD88CD-2B64-4FC5-A832-1B6199ABD6AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A561AD27-B6C8-406F-B2E4-F1E416632B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A561AD27-B6C8-406F-B2E4-F1E416632B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A561AD27-B6C8-406F-B2E4-F1E416632B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A561AD27-B6C8-406F-B2E4-F1E416632B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B661409C-4AAA-48DA-A594-6762DDF09C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B661409C-4AAA-48DA-A594-6762DDF09C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B661409C-4AAA-48DA-A594-6762DDF09C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B661409C-4AAA-48DA-A594-6762DDF09C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CD88CD-2B64-4FC5-A832-1B6199ABD6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CD88CD-2B64-4FC5-A832-1B6199ABD6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CD88CD-2B64-4FC5-A832-1B6199ABD6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CD88CD-2B64-4FC5-A832-1B6199ABD6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
