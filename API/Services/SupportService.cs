@@ -20,7 +20,7 @@ public class SupportService
     {
         try
         {
-            var partitionKey = new PartitionKey(supportMessage.Category);
+            var partitionKey = new PartitionKey(supportMessage.category);
 
             await _container.UpsertItemAsync(supportMessage, partitionKey);
         }
@@ -47,4 +47,18 @@ public class SupportService
             return null;
         }
     }
+    public async Task<List<SupportMessage>> GetAllSupportMessages()
+    {
+        var query = _container.GetItemQueryIterator<SupportMessage>("SELECT * FROM c");
+        var results = new List<SupportMessage>();
+
+        while (query.HasMoreResults)
+        {
+            var response = await query.ReadNextAsync();
+            results.AddRange(response);
+        }
+
+        return results;
+    }
+
 }

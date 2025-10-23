@@ -4,6 +4,102 @@
     "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\CosmosDB\\CosmosDB.csproj": {}
   },
   "projects": {
+    "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\zida1\\.nuget\\packages\\",
+        "outputPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zida1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\Library\\Library.csproj": {
+                "projectPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\Library\\Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.1.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.55.0-preview.0, )"
+            },
+            "NSwag.SwaggerGeneration.WebApi": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\zida1\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\CosmosDB\\CosmosDB.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +121,14 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\API\\API.csproj": {
+                "projectPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\API\\API.csproj"
+              },
+              "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\Library\\Library.csproj": {
+                "projectPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\Library\\Library.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -72,6 +175,75 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\zida1\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\Library\\Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\Library\\Library.csproj",
+        "projectName": "Library",
+        "projectPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\zida1\\.nuget\\packages\\",
+        "outputPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zida1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Newtonsoft.Json.Bson": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[10.0.0-rc.2.25502.107, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

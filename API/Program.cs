@@ -9,9 +9,22 @@ builder.Services.AddControllers();
 
 builder.Services.AddSingleton(s =>
 {
+    var cosmosClientOptions = new CosmosClientOptions
+    {
+        HttpClientFactory = () =>
+        {
+            var handler = new HttpClientHandler
+            {
+                ServerCertificateCustomValidationCallback = (req, cert, chain, errors) => true
+            };
+            return new HttpClient(handler);
+        }
+    };
+
     var cosmosClient = new CosmosClient(
         builder.Configuration["CosmosDb:Account"],
-        builder.Configuration["CosmosDb:Key"]);
+        builder.Configuration["CosmosDb:Key"],
+        cosmosClientOptions);
 
     var logger = s.GetRequiredService<ILogger<SupportService>>();
 
@@ -21,6 +34,7 @@ builder.Services.AddSingleton(s =>
         builder.Configuration["CosmosDb:ContainerName"],
         logger);
 });
+
 
 var app = builder.Build();
 
