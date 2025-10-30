@@ -1,37 +1,46 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Globalization;
+using System.Net;
+using System.Net.Http;
+using Api.Filters;
+using API.Services;
 using CsvHelper;
-using CsvHelper;
-using System.Globalization;
-using Core.Models;
-using CosmosDB.Services;
+using Microsoft.AspNetCore.Mvc;
+using Share.Models;
 
-namespace CosmosDB.API.Controllers;
+namespace API.Controllers;
 
-[ApiController]
 [Route("api/[controller]")]
-public class SupportController : ControllerBase
+[ApiController]
+public class SupportMessageController : ControllerBase
 {
-    private readonly SupportService _supportService;
-
-    public SupportController(SupportService supportService)
+    private readonly SupportService _service;
+public SupportMessageController(SupportService service)
     {
-        _supportService = supportService;
+        _service = service;
     }
 
-    [HttpPost("/support-message/upload")]
-    public async Task<IActionResult> CreateSupportMessage([FromBody] SupportMessage supportMessage)
+    [HttpPost("upload")]
+    public async Task<IActionResult> PostSupportMessage([FromBody] SupportMessage message)
     {
-        if (supportMessage == null)
-            return BadRequest("Support message is null");
+        try
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
 
-        await _supportService.AddSupportMessage(supportMessage);
-        return Ok(supportMessage);
+            if (message == null)
+            {
+                return BadRequest("Message is null (JSON binding failed)");
+            }
+
+            await _service.AddSupportMessage(message);
+            return Ok("Support message saved to the database.");
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, $"Server error: {ex.Message}");
+        }
     }
 
-    [HttpGet("/support-message")]
-    public async Task<ActionResult<IEnumerable<SupportMessage>>> GetSupportMessage([FromQuery] string id)
-    {
-        var supportMessage = await _supportService.GetSupportMessage(id);
-        return supportMessage != null ? Ok(supportMessage) : NotFound();
-    }
 }

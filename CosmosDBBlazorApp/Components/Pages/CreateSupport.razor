@@ -1,0 +1,78 @@
+﻿@page "/1"
+@using System.ComponentModel.DataAnnotations
+@using Share.Models
+@inject ILogger<SupportMessage> Logger
+@inject CosmosDBBlazorApp.Services.SupportMessageService SupportService
+
+<EditForm Model="Model"
+          OnValidSubmit="SubmitAsync"
+          FormName="SupportMessageForm">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label>Name:</label>
+        <InputText @bind-Value="Model!.Name" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Email:</label>
+        <InputText @bind-Value="Model!.Email" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Phone:</label>
+        <InputText @bind-Value="Model!.Phone" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Description:</label>
+        <InputTextArea @bind-Value="Model!.Description" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Category:</label>
+        <InputText @bind-Value="Model!.Category" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Send</button>
+</EditForm>
+
+@if (!string.IsNullOrEmpty(ResponseMessage))
+{
+    <p>@ResponseMessage</p>
+}
+
+@code {
+    [SupplyParameterFromForm]
+    private SupportMessage? Model { get; set; }
+
+    private string? ResponseMessage;
+
+    protected override void OnInitialized() => Model ??= new();
+
+    private async Task SubmitAsync()
+    {
+        try
+        {
+            var success = await SupportService.AddSupportMessageAsync(Model!);
+
+            if (success)
+            {
+                ResponseMessage = "Support message saved successfully!";
+                Logger.LogInformation("✅ Support message sent for {Email}", Model?.Email);
+                Model = new(); // reset form
+            }
+            else
+            {
+                ResponseMessage = "❌ Failed to save support message (API returned error).";
+                Logger.LogWarning("API returned non-success status");
+            }
+        }
+        catch (Exception ex)
+        {
+            Logger.LogError(ex, "Error sending support message");
+            ResponseMessage = $"❌ Error: {ex.Message}";
+        }
+    }
+}

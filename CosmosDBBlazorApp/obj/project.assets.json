@@ -2481,6 +2481,33 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "API/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Azure.Identity": "1.17.0",
+          "CosmosDbRepository": "1.1.106",
+          "CsvHelper": "33.1.0",
+          "Microsoft.AspNet.WebApi.Core": "5.3.0",
+          "Microsoft.AspNetCore.OpenApi": "9.0.2",
+          "Microsoft.Azure.Cosmos": "3.55.0-preview.0",
+          "NSwag.SwaggerGeneration.WebApi": "12.3.0",
+          "Newtonsoft.Json": "13.0.4",
+          "Newtonsoft.Json.Bson": "1.0.3",
+          "Share": "1.0.0",
+          "Swashbuckle.AspNetCore.SwaggerGen": "9.0.6",
+          "Swashbuckle.AspNetCore.SwaggerUI": "9.0.6"
+        },
+        "compile": {
+          "bin/placeholder/API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Share/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -7640,6 +7667,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "API/1.0.0": {
+      "type": "project",
+      "path": "../API/API.csproj",
+      "msbuildProject": "../API/API.csproj"
+    },
     "Share/1.0.0": {
       "type": "project",
       "path": "../Share/Share.csproj",
@@ -7648,18 +7680,9 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Azure.Identity >= 1.17.0",
-      "CosmosDbRepository >= 1.1.106",
-      "CsvHelper >= 33.1.0",
-      "Microsoft.AspNet.WebApi.Core >= 5.3.0",
-      "Microsoft.AspNetCore.OpenApi >= 9.0.2",
+      "API >= 1.0.0",
       "Microsoft.Azure.Cosmos >= 3.55.0-preview.0",
-      "NSwag.SwaggerGeneration.WebApi >= 12.3.0",
-      "Newtonsoft.Json >= 13.0.4",
-      "Newtonsoft.Json.Bson >= 1.0.3",
-      "Share >= 1.0.0",
-      "Swashbuckle.AspNetCore.SwaggerGen >= 9.0.6",
-      "Swashbuckle.AspNetCore.SwaggerUI >= 9.0.6"
+      "Share >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7668,11 +7691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\API\\API.csproj",
-      "projectName": "API",
-      "projectPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\API\\API.csproj",
+      "projectUniqueName": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\CosmosDBBlazorApp\\CosmosDBBlazorApp.csproj",
+      "projectName": "CosmosDBBlazorApp",
+      "projectPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\CosmosDBBlazorApp\\CosmosDBBlazorApp.csproj",
       "packagesPath": "C:\\Users\\zida1\\.nuget\\packages\\",
-      "outputPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\API\\obj\\",
+      "outputPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\CosmosDBBlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zida1\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7687,6 +7710,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\API\\API.csproj": {
+              "projectPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\API\\API.csproj"
+            },
             "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\Share\\Share.csproj": {
               "projectPath": "D:\\[2] Work\\Rider\\3. Semester\\CosmosDB\\Share\\Share.csproj"
             }
@@ -7709,49 +7735,9 @@
       "net9.0": {
         "targetAlias": "net9.0",
         "dependencies": {
-          "Azure.Identity": {
-            "target": "Package",
-            "version": "[1.17.0, )"
-          },
-          "CosmosDbRepository": {
-            "target": "Package",
-            "version": "[1.1.106, )"
-          },
-          "CsvHelper": {
-            "target": "Package",
-            "version": "[33.1.0, )"
-          },
-          "Microsoft.AspNet.WebApi.Core": {
-            "target": "Package",
-            "version": "[5.3.0, )"
-          },
-          "Microsoft.AspNetCore.OpenApi": {
-            "target": "Package",
-            "version": "[9.0.2, )"
-          },
           "Microsoft.Azure.Cosmos": {
             "target": "Package",
             "version": "[3.55.0-preview.0, )"
-          },
-          "NSwag.SwaggerGeneration.WebApi": {
-            "target": "Package",
-            "version": "[12.3.0, )"
-          },
-          "Newtonsoft.Json": {
-            "target": "Package",
-            "version": "[13.0.4, )"
-          },
-          "Newtonsoft.Json.Bson": {
-            "target": "Package",
-            "version": "[1.0.3, )"
-          },
-          "Swashbuckle.AspNetCore.SwaggerGen": {
-            "target": "Package",
-            "version": "[9.0.6, )"
-          },
-          "Swashbuckle.AspNetCore.SwaggerUI": {
-            "target": "Package",
-            "version": "[9.0.6, )"
           }
         },
         "imports": [

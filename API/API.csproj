@@ -7,17 +7,21 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Azure.Identity" Version="1.17.0" />
+        <PackageReference Include="CosmosDbRepository" Version="1.1.106" />
         <PackageReference Include="CsvHelper" Version="33.1.0" />
+        <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.3.0" />
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.2"/>
         <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.55.0-preview.0" />
         <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+        <PackageReference Include="Newtonsoft.Json.Bson" Version="1.0.3" />
         <PackageReference Include="NSwag.SwaggerGeneration.WebApi" Version="12.3.0" />
         <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="9.0.6" />
         <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="9.0.6" />
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Library\Library.csproj" />
+      <ProjectReference Include="..\Share\Share.csproj" />
     </ItemGroup>
 
 </Project>
