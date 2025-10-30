@@ -29,14 +29,15 @@
    <p># Jeg havde nok allerstørst problemer med git bash her (windows)</p>
 
 
-Status:
+<h3>Status:</h3>
 
 - Oprettet database & tilhørende container
 - Modelklasse til SupportMessage (henvendelsen)
 - API (controller + service) til forbindelse med CosmosDB
 - Blazor-sider (Opret hendvendelser, se alle henvendelser) til input og læsning af databasen.
 
-
+<h3>Status:</h3>
 Hvad nåede jeg/hvad er næste trin?:
 - Jeg fik lavet det minimale vel. Tog mig alt for langt tid, fordi jeg havde problemer med både CosmosDB og Blazor-delen.
 - At lave login-system og begrænse adgang til beskeder. Henvendelser burde ikke være tilgængelige for andre — kun admins. Så måske en inbakke i stedet for en hel liste med ALLE beskeder.
+- Jeg fik heller ikke fikset validation helt. Klassen har ikke [Required] f.eks..
