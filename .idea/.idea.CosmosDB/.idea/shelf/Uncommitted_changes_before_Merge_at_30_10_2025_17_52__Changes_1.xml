@@ -1,0 +1,454 @@
+<changelist name="Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1" date="1761843202083" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Merge at 30/10/2025 17.52 [Changes]" />
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/System.Drawing.Common.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/msvcp140.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/msvcp140.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/runtimes/win-x64/native/vcruntime140_1.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/vcruntime140_1.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Swashbuckle.AspNetCore.Swagger.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/obj/Debug/net9.0/ref/API.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/API.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/System.Net.Http.Formatting.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/System.Net.Http.Formatting.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/obj/Debug/net9.0/API.csproj.CoreCompileInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/API.csproj.CoreCompileInputs.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/CosmosDBBlazorApp.csproj.CoreCompileInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/CosmosDBBlazorApp.csproj.CoreCompileInputs.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="WebApplication1/obj/Debug/net9.0/WebApplication1.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/WebApplication1.assets.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/obj/Debug/net9.0/apphost.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/apphost.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/navyfr5n6d-zub09dkrxp.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/navyfr5n6d-zub09dkrxp.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/Microsoft.Azure.Cosmos.Client.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.Azure.Cosmos.Client.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/System.Configuration.ConfigurationManager.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/Share.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Share.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/lfo4tjnhor-c2jlpeoesf.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/lfo4tjnhor-c2jlpeoesf.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Azure.Cosmos.ServiceInterop.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.Azure.Cosmos.ServiceInterop.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Share/obj/Debug/net9.0/Share.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Share.pdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/9gkdgf9vfb-kbrnm935zg.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/9gkdgf9vfb-kbrnm935zg.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/xmeh66bxcd-ltid2c489k.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/xmeh66bxcd-ltid2c489k.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/runtimes/win7-x64/native/Cosmos.CRTCompat.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Cosmos.CRTCompat.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/NSwag.SwaggerGeneration.WebApi.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/NSwag.SwaggerGeneration.WebApi.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/o8su6sk6dp-0j3bgjxly4.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/o8su6sk6dp-0j3bgjxly4.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/API.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/API.pdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/System.Security.Permissions.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/System.Security.Permissions.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/CosmosDBBlazorApp.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/CosmosDBBlazorApp.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/Microsoft.Azure.Cosmos.Direct.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.Azure.Cosmos.Direct.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/Microsoft.OpenApi.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.OpenApi.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/Newtonsoft.Json.Bson.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Newtonsoft.Json.Bson.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/91bydwnb2f-aexeepp0ev.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/91bydwnb2f-aexeepp0ev.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/NSwag.SwaggerGeneration.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/NSwag.SwaggerGeneration.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/System.Windows.Extensions.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Swashbuckle.AspNetCore.SwaggerUI.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/c8tfijedc8-gye83jo8yx.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/c8tfijedc8-gye83jo8yx.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/System.ClientModel.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/System.ClientModel.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/Azure.Identity.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Azure.Identity.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/ndvtwj26uy-lclxdyduvc.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/ndvtwj26uy-lclxdyduvc.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/zz5ozvad62-khy4lop6wu.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/zz5ozvad62-khy4lop6wu.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/3gqttzgj39-xvp3kq03qx.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/3gqttzgj39-xvp3kq03qx.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/uavncc783n-wl58j5mj3v.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/uavncc783n-wl58j5mj3v.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/Newtonsoft.Json.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Newtonsoft.Json.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.Identity.Client.Extensions.Msal.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/System.Memory.Data.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/System.Memory.Data.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/fj72s3doj7-t1cqhe9u97.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/fj72s3doj7-t1cqhe9u97.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="API/obj/Debug/net9.0/API.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="API/obj/Debug/net9.0/API.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/API.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/98a93gizj3-q9ht133ko3.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/98a93gizj3-q9ht133ko3.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/sf55ab9833-hd3gran6i8.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/sf55ab9833-hd3gran6i8.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/p872se47ou-c2oey78nd0.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/p872se47ou-c2oey78nd0.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Swashbuckle.AspNetCore.SwaggerGen.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/1uc9p3wg94-c63t5i9ira.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/1uc9p3wg94-c63t5i9ira.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/obj/Debug/net9.0/API.genruntimeconfig.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/API.genruntimeconfig.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/h7v37pcrrk-u9q1upor1n.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/h7v37pcrrk-u9q1upor1n.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/NJsonSchema.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/NJsonSchema.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/jg3yxvmsvc-sejl45xvog.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/jg3yxvmsvc-sejl45xvog.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/m6fon7s3rz-r4e9w2rdcm.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/m6fon7s3rz-r4e9w2rdcm.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/API.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/API.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Share/obj/Debug/net9.0/Share.csproj.CoreCompileInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Share.csproj.CoreCompileInputs.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/CosmosDBBlazorApp.genruntimeconfig.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/CosmosDBBlazorApp.genruntimeconfig.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.AspNetCore.OpenApi.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/runtimes/win-x64/native/vcruntime140.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/vcruntime140.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/rjhwy1e7vh-ynyaa8k90p.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/rjhwy1e7vh-ynyaa8k90p.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/69z7727f7v-rxsg74s51o.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/69z7727f7v-rxsg74s51o.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/zjr50czrpw-y7v9cxd14o.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/zjr50czrpw-y7v9cxd14o.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/Microsoft.Azure.DocumentDB.Core.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.Azure.DocumentDB.Core.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/njhia76yur-iovd86k7lj.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/njhia76yur-iovd86k7lj.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.IdentityModel.Abstractions.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/arhgns01qk-4094rpi4f9.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/arhgns01qk-4094rpi4f9.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/3a6rts30xu-jd9uben2k1.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/3a6rts30xu-jd9uben2k1.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/CosmosDbRepository.Types.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/CosmosDbRepository.Types.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/CosmosDBBlazorApp.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/CosmosDBBlazorApp.pdb" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="WebApplication1/obj/Debug/net9.0/WebApplication1.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/WebApplication1.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.Bcl.AsyncInterfaces.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/Microsoft.Bcl.HashCode.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.Bcl.HashCode.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/rb4cuxf4nd-d4r6k3f320.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/rb4cuxf4nd-d4r6k3f320.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/System.Security.Cryptography.ProtectedData.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/CsvHelper.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/CsvHelper.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/NSwag.Core.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/NSwag.Core.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/Azure.Core.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Azure.Core.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/vxfdjzpd5r-43atpzeawx.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/vxfdjzpd5r-43atpzeawx.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.Win32.SystemEvents.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/peyv9wyah2-pj5nd1wqec.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/peyv9wyah2-pj5nd1wqec.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/obj/Debug/net9.0/API.MvcApplicationPartsAssemblyInfo.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/API.MvcApplicationPartsAssemblyInfo.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/z2mm2k3cfh-6pdc2jztkx.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/z2mm2k3cfh-6pdc2jztkx.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/zht96tgq6g-v0zj4ognzu.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/zht96tgq6g-v0zj4ognzu.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/gbfofg4l5x-cosvhxvwiu.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/gbfofg4l5x-cosvhxvwiu.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/1czoa6ifhe-j5mq2jizvt.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/1czoa6ifhe-j5mq2jizvt.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/System.Web.Http.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/System.Web.Http.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/Microsoft.Azure.Cosmos.Serialization.HybridRow.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.Azure.Cosmos.Serialization.HybridRow.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/7s67fs26uo-tmc1g35s3z.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/7s67fs26uo-tmc1g35s3z.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/eojkdwm64e-fvhpjtyr6v.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/eojkdwm64e-fvhpjtyr6v.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/arl8051wju-ft3s53vfgj.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/arl8051wju-ft3s53vfgj.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="WebApplication1/obj/Debug/net9.0/WebApplication1.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/WebApplication1.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/runtimes/win7-x64/native/Microsoft.Azure.Documents.ServiceInterop.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.Azure.Documents.ServiceInterop.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/CosmosDbRepository.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/CosmosDbRepository.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/pumb1h0ovv-nvvlpmu67g.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/pumb1h0ovv-nvvlpmu67g.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="WebApplication1/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/project.nuget.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/CosmosDBBlazorApp.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/CosmosDBBlazorApp.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/ggts41h1dm-fsbi9cje9m.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/ggts41h1dm-fsbi9cje9m.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="CosmosDB/obj/Debug/net9.0/CosmosDB.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="CosmosDB/obj/Debug/net9.0/CosmosDB.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/CosmosDB.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/9ean0dvzb7-lclxdyduvc.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/9ean0dvzb7-lclxdyduvc.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/bin/Debug/net9.0/CosmosDBBlazorApp.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/CosmosDBBlazorApp.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/CosmosDBBlazorApp.MvcApplicationPartsAssemblyInfo.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/CosmosDBBlazorApp.MvcApplicationPartsAssemblyInfo.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/xnw3st83yg-22vffe00uq.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/xnw3st83yg-22vffe00uq.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/60kcbf3pp4-ee0r1s7dh0.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/60kcbf3pp4-ee0r1s7dh0.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/Microsoft.Azure.Cosmos.Core.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.Azure.Cosmos.Core.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/2j42wkl178-keugtjm085.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/2j42wkl178-keugtjm085.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="API/bin/Debug/net9.0/Microsoft.Identity.Client.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/Microsoft.Identity.Client.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/ile30zv8bp-hrwsygsryq.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/ile30zv8bp-hrwsygsryq.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/ffnv6okmt4-qesaa3a1fm.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/ffnv6okmt4-qesaa3a1fm.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/rx3urasglj-ausgxo2sd3.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/rx3urasglj-ausgxo2sd3.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/uh35bj8kcl-4d85u1mtcx.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/uh35bj8kcl-4d85u1mtcx.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/zmegt6kysv-h1s4sie4z3.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/zmegt6kysv-h1s4sie4z3.gz" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="CosmosDBBlazorApp/obj/Debug/net9.0/compressed/098g2r2kmm-8vyfqsqgz1.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CosmosDB/.idea/shelf/Uncommitted_changes_before_Merge_at_30_10_2025_17_52_[Changes]1/098g2r2kmm-8vyfqsqgz1.gz" />
+  </binary>
+</changelist>
