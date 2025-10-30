@@ -11,7 +11,7 @@ builder.Services.AddRazorComponents()
 // HttpClient for API
 builder.Services.AddHttpClient<SupportMessageService>(client =>
 {
-    client.BaseAddress = new Uri("http://localhost:5203/");
+    client.BaseAddress = new Uri("http://localhost:5204/");
 });
 
 // CORS
@@ -32,7 +32,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CosmosDBBlazorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d664dd4943208424550fdcdd3c260cbe52cb4d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26201174e082ee0a8cfbec910b48d670180f600c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CosmosDBBlazorApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CosmosDBBlazorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

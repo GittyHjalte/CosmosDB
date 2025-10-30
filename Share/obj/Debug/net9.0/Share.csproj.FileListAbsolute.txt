@@ -1,0 +1,13 @@
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\bin\Debug\net9.0\Share.deps.json
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\bin\Debug\net9.0\Share.dll
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\bin\Debug\net9.0\Share.pdb
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\obj\Debug\net9.0\Share.csproj.AssemblyReference.cache
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\obj\Debug\net9.0\Share.GeneratedMSBuildEditorConfig.editorconfig
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\obj\Debug\net9.0\Share.AssemblyInfoInputs.cache
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\obj\Debug\net9.0\Share.AssemblyInfo.cs
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\obj\Debug\net9.0\Share.csproj.CoreCompileInputs.cache
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\obj\Debug\net9.0\Share.sourcelink.json
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\obj\Debug\net9.0\Share.dll
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\obj\Debug\net9.0\refint\Share.dll
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\obj\Debug\net9.0\Share.pdb
+D:\[2] Work\Rider\3. Semester\CosmosDB\Share\obj\Debug\net9.0\ref\Share.dll
