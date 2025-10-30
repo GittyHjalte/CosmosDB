@@ -27,9 +27,9 @@
   --database-name IBasSupportDB \
   --name ibassupport \
   --partition-key-path "/category"
-
-   # Jeg havde nok allerstørst problemer med git bash her (windows)
 </p>
+   <p># Jeg havde nok allerstørst problemer med git bash her (windows)</p>
+
 
 Status:
 
