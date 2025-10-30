@@ -1,7 +1,33 @@
 ﻿@page "/"
+@inject NavigationManager Nav
 
-<PageTitle>Home</PageTitle>
+<PageTitle>IBas Support</PageTitle>
 
-<h1>Hello, world!</h1>
+<div class="text-center mt-5">
+    <h1 class="display-5 mb-4">Velkommen til IBas Support</h1>
+    <p class="lead mb-5">
+        Her kan du sende en supporthenvendelse eller se tidligere beskeder.
+    </p>
 
-Welcome to your new app.
+    <div class="d-flex justify-content-center gap-4">
+        <button class="btn btn-primary btn-lg" @onclick="@(() => Nav.NavigateTo("/createsupport"))">
+            📩 Opret ny henvendelse
+        </button>
+
+        <button class="btn btn-outline-secondary btn-lg" @onclick="@(() => Nav.NavigateTo("/supportlist"))">
+            📋 Se alle henvendelser
+        </button>
+    </div>
+</div>
+
+<style>
+    h1 {
+        font-weight: 600;
+    }
+
+    .btn {
+        min-width: 250px;
+        padding: 15px 20px;
+        border-radius: 12px;
+    }
+</style>

@@ -1,0 +1,66 @@
+﻿@page "/supportlist"
+@using CosmosDBBlazorApp.Services
+@using Share.Models
+@inject SupportMessageService SupportService
+
+<PageTitle>Support List</PageTitle>
+
+<h3 class="mb-3">Henvendelser</h3>
+
+@if (isLoading)
+{
+    <p><em>Indlæser...</em></p>
+}
+else if (messages == null || messages.Length == 0)
+{
+    <p>Her er tomt.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>Navn</th>
+            <th>Email</th>
+            <th>Telefon</th>
+            <th>Kategori</th>
+            <th>Beskrivelse</th>
+            <th>Dato</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var msg in messages)
+        {
+            <tr>
+                <td>@msg.Name</td>
+                <td>@msg.Email</td>
+                <td>@msg.Phone</td>
+                <td>@msg.Category</td>
+                <td>@msg.Description</td>
+                <td>@msg.Date.ToLocalTime().ToString("g")</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+@code {
+    private SupportMessage[]? messages;
+    private bool isLoading = true;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            messages = await SupportService.GetSupportMessagesAsync("");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Fejl ved hentning af beskeder: {ex.Message}");
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+}

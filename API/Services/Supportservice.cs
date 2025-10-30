@@ -33,16 +33,29 @@ public class SupportService
     }
 
 
-    public async Task<SupportMessage?> GetSupportMessage(string category)
+    public async Task<IEnumerable<SupportMessage>> GetSupportMessage(string category)
     {
-        try
+        var query = string.IsNullOrEmpty(category)
+            ? "SELECT * FROM c"
+            : $"SELECT * FROM c WHERE c.category = @category";
+
+        var queryDef = new QueryDefinition(query);
+
+        if (!string.IsNullOrEmpty(category))
         {
-            var response = await _container.ReadItemAsync<SupportMessage>(category, new PartitionKey(category));
-            return response.Resource;
+            queryDef.WithParameter("@category", category);
         }
-        catch (CosmosException ex) when (ex.StatusCode == System.Net.HttpStatusCode.NotFound)
+
+        var results = new List<SupportMessage>();
+        using (FeedIterator<SupportMessage> iterator = _container.GetItemQueryIterator<SupportMessage>(queryDef))
         {
-            return null;
+            while (iterator.HasMoreResults)
+            {
+                FeedResponse<SupportMessage> response = await iterator.ReadNextAsync();
+                results.AddRange(response);
+            }
         }
+
+        return results;
     }
-}
+    }

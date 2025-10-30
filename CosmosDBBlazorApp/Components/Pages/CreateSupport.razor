@@ -1,4 +1,4 @@
-﻿@page "/1"
+﻿@page "/createsupport"
 @using System.ComponentModel.DataAnnotations
 @using Share.Models
 @inject ILogger<SupportMessage> Logger
@@ -59,19 +59,19 @@
 
             if (success)
             {
-                ResponseMessage = "Support message saved successfully!";
-                Logger.LogInformation("✅ Support message sent for {Email}", Model?.Email);
-                Model = new(); // reset form
+                ResponseMessage = "Sucess";
+                Logger.LogInformation("✅ Sucess for {Email}", Model?.Email);
+                Model = new(); // resetter
             }
             else
             {
-                ResponseMessage = "❌ Failed to save support message (API returned error).";
-                Logger.LogWarning("API returned non-success status");
+                ResponseMessage = "Failed to save. API error).";
+                Logger.LogWarning("API returned fail");
             }
         }
         catch (Exception ex)
         {
-            Logger.LogError(ex, "Error sending support message");
+            Logger.LogError(ex, "Error sending message");
             ResponseMessage = $"❌ Error: {ex.Message}";
         }
     }

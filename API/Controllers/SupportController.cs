@@ -42,5 +42,13 @@ public SupportMessageController(SupportService service)
             return StatusCode(500, $"Server error: {ex.Message}");
         }
     }
+    [HttpGet("support-message")]
+    public async Task<ActionResult<IEnumerable<SupportMessage>>> GetSupportMessage([FromQuery] string? category = null)
+    {
+        var supportMessages = await _service.GetSupportMessage(category);
+        return Ok(supportMessages);
+    }
+
+
 
 }

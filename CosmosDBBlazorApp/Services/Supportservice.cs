@@ -17,22 +17,20 @@ namespace CosmosDBBlazorApp.Services
         {
             _http = http;
         }
-
-        /// <summary>
-        /// Adds a support message via the API.
-        /// </summary>
+        
         public async Task<bool> AddSupportMessageAsync(SupportMessage message)
         {
             var response = await _http.PostAsJsonAsync("api/supportmessage/upload", message);
             return response.IsSuccessStatusCode;
         }
-
-        /// <summary>
-        /// Optional: get support messages by category.
-        /// </summary>
+        
         public async Task<SupportMessage[]> GetSupportMessagesAsync(string category)
         {
-            return await _http.GetFromJsonAsync<SupportMessage[]>($"supportmessage?category={category}");
+            var url = string.IsNullOrWhiteSpace(category)
+                ? "api/supportmessage/support-message"
+                : $"api/supportmessage/support-message?category={category}";
+
+            return await _http.GetFromJsonAsync<SupportMessage[]>(url);
         }
 
     }
